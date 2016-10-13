@@ -1,0 +1,2 @@
+alias cupcakes='mkdir ~/cupcakes; mkdir ~/cupcakes/are-not; touch ~/cupcakes/are-not/bet
+ter-than-donuts.txt && echo -e "SPRINKLES!\n$PWD"
